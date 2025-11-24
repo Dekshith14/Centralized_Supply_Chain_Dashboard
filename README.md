@@ -50,3 +50,20 @@ supply_chain_dashboard/
 
 ## Screenshot of Overview Page
 ![Screenshot 2025-06-11 012439](https://github.com/user-attachments/assets/3d3e3b58-0bf1-4cbb-9911-800a72755905)
+
+
+
+▶️ Running the Application
+1. Clone the repository
+git clone https://github.com/Dekshith14/Centralized_Supply_Chain_Dashboard.git
+cd Centralized_Supply_Chain_Dashboard
+
+2. Create a virtual environment
+python -m venv venv
+venv\Scripts\activate    # Windows
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Run the Streamlit app
+streamlit run main.py
