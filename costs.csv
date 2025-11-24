@@ -1,0 +1,9 @@
+category,amount,budget,period
+Raw Materials,125000,130000,Q1 2025
+Manufacturing,87500,90000,Q1 2025
+Warehousing,45000,50000,Q1 2025
+Transportation,67500,70000,Q1 2025
+Inventory Holding,32000,35000,Q1 2025
+Order Processing,18500,20000,Q1 2025
+Returns,12000,15000,Q1 2025
+Administrative,36000,40000,Q1 2025

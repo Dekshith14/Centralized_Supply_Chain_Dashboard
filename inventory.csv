@@ -1,0 +1,11 @@
+item_id,item_name,stock_level,reorder_threshold,supplier,lead_time_days,last_updated
+1,Aluminum Sheets,120,50,TMT Pvt Ltd,14,2025-04-20 21:22:53.080921
+2,Circuit Boards,85,40,Techtronix Components,7,2025-04-19 21:22:53.080921
+3,Steel Bolts,50,30,Bharat Fasteners Co.,10,2025-04-18 21:22:53.080921
+4,Hydraulic Pumps,30,20,TMT Pvt Ltd,14,2025-04-17 21:22:53.080921
+5,Corrugated Boxes,200,100,HydroMech Systems,5,2025-04-16 21:22:53.080921
+6,Industrial Lubricant,15,30,Techtronix Components,7,2025-04-15 21:22:53.080921
+7,Resistors - 10kΩ,65,30,Bharat Fasteners Co.,10,2025-04-14 21:22:53.080921
+8,Plastic Casings,25,20,Ace Packaging India,21,2025-04-13 21:22:53.080921
+9,Gear Assemblies,40,25,Techtronix Components,14,2025-04-12 21:22:53.081921
+10,Smartphone Model X,10,30,In-House Production,3,2025-04-11 21:22:53.081921
